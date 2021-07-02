@@ -81,6 +81,8 @@ See original readme.txt
 
 ## Official website
 
+[http://www.wch.cn/products/CH340.html](http://www.wch.cn/products/CH340.html)
+
 [http://www.wch.cn/download/CH341SER_LINUX_ZIP.html](http://www.wch.cn/download/CH341SER_LINUX_ZIP.html)
 
 <br/>
